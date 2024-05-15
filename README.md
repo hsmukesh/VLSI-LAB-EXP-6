@@ -21,33 +21,48 @@ To design and simulate the CMOS inverter and observe the DC and transient respon
 
 1.In the library manager, execute File - New library. The new library form appears.
 
+
 2.In the new library form, type ‘my design lib’ in the name section.
+
 
 3.In the field of directory section, verify that the path to the library is set to ~/Database / Cadence- analog – lab –bl3 and click ok.
 
+
 4.In the next ‘technology file for new library form select option attach to an existing tech file and click ok.
+
 
 5.In the ‘attach design library to technology file’ form, select gpdk045 form the cyclic field and click ok.
 
+
 6.After creating a new library you can verify it from the library manager.
+
 
 7.If you right click on the ‘my design lib’ and select properties, you will find that gpdk045 library is attached as techlib to ‘my design lib’.
 
+
 Creating a schematic cell view:
+
 
 1.In the CIW or library manager, execute file – new – cell viw.
 
+
 2.Setup the new file form as follows, Do not edit the library path file and the above might be different from the path shown in your form.
+
 
 3.Click ok when done the above setting. A black schematic window for the inverter design appears.
 
-Adding components to schematic:
+
+**Adding components to schematic:**
+
 
 1.In the inverter schematic window, click the instance fixed menu icon to display the add instance form.
 
+
 2.Click on the browse button. This opens up a library browser from which you can select components and the symbol view.
 
+
 3.After you complete the add instance form move your cursor to the schematic window and click left to place a component.
+
 
 LIBRARY NAME	CELL NAME
 
@@ -60,7 +75,9 @@ gpdk045	NMOS
 
 4.This is a table of components for building the inverter schematic.
 
+
 5.After entering components, click cancel in the add instance form or press ESC with your cursor in the schematic window.
+
 
 ![readme](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/102887c7-1ddf-4ebc-9337-537f57af75ff)
 
