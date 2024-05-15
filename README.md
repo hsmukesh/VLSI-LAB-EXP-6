@@ -1,23 +1,23 @@
 
-Ex No 6:SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL
+# Ex No 6:SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL #
 
-Date:
+**Date:**
 
-AIM:
+**AIM:**
 
 To design and simulate the CMOS inverter and observe the DC and transient responses using cadence tool.
 
-APPARATUS REQUIRED:
+**APPARATUS REQUIRED:**
  
 1.Laptop with MobaXterm
 
 2.Cadence tool
 
-PROCEDURE
+**PROCEDURE:**
 
-SCHEMATIC ENTRY:
+**SCHEMATIC ENTRY:**
 
-Creating a new library:
+**Creating a new library:**
 
 1.In the library manager, execute File - New library. The new library form appears.
 
@@ -87,7 +87,7 @@ Adding wires to schematic:
 4.Complete the wiring as shown in the figure and when done wiring press ECS key in the schematic window to cancel wiring.
 
 
-Saving the design:
+**Saving the design:**
 
 	Click the check and save icon in the schematic editor window observe CIW output for any errors.
 
@@ -122,9 +122,9 @@ Analog lib	Vdc, gnd	Vdc = 1.8v
 ![WPS Photos(1)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/c2d18432-64a1-4b50-98e0-09d75461f33e)
 
 
-ANALOG SIMULATION WITH SPECTRA:
+**ANALOG SIMULATION WITH SPECTRA:**
 
-Starting the simulation environment:
+**Starting the simulation environment:**
 
 1.In the Inverter-test schematic window execute launch – ADEL. The variable virtuoso analog design environment (ADE) simulation window appears.
 Choosing a simulator:
@@ -186,19 +186,19 @@ Running the simulation:
 
 
 
-CMOS NAND GATE
+**CMOS NAND GATE**
 
-NAND SCHmatic
+**NAND SCHmatic:**
 
 ![WPS Photos6](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/36c161a0-eb38-49b6-901b-6971e3616a1a)
 
 
-NAND TEST CELL VIEW
+**NAND TEST CELL VIEW:**
 
 ![WPS Photos7](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/f46287ff-b86f-4b19-a593-9f85c4709baf)
 
 
-NAND SIMULATION WITH SPECTRA
+**NAND SIMULATION WITH SPECTRA:**
 
 
 ![WPS Photos8](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/45dfa853-6889-4368-b2cf-5374378a6140)
@@ -209,7 +209,7 @@ NAND SIMULATION WITH SPECTRA
 
 
 
-CMOS NOR GATE
+**CMOS NOR GATE:**
 
 NOR SCHEMATIC
 
@@ -229,7 +229,7 @@ NOR SIMULATION WITH SPECTRA
 
 ![WPS Photos(11)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/ca0d0123-8544-4693-9377-1702e4058300)
 
-Result:
+**Result:**
 
 
 Does the design and simulate the CMOS inverter and observe the DC and transient responses using cadence tool was done.
